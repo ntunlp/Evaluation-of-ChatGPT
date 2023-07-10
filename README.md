@@ -63,7 +63,7 @@ Here is a short summary of the findings from the paper,
 ![polyquery_res](https://github.com/ntunlp/ChatGPT_Eval/blob/main/figures/7.PNG)
 ![polyquery_res](https://github.com/ntunlp/ChatGPT_Eval/blob/main/figures/8.PNG)
 
-- For text summarization, the ChatGPT cannot outperform the current SOTA models based on the ROGUE metric. However, our annotators prefer ChatGPT's generated summaries over the SOTA models. This suggests that we may need a new summarization metric to evaluate ChatGPT like instruction-tuned LLMs.
+- For text summarization, the ChatGPT cannot outperform the current SOTA models based on the ROGUE metric. However, our annotators prefer ChatGPT's generated summaries over the SOTA models. . We find that our annotators prefer ChatGPT 78% times in CNN/DM and 92% times in XSUM. This suggests that we may need a new summarization metric to evaluate ChatGPT like instruction-tuned LLMs. 
 
 ![summarization](https://github.com/ntunlp/ChatGPT_Eval/blob/main/figures/9.PNG)
 
