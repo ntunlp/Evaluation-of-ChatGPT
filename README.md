@@ -49,7 +49,7 @@ Here is a short summary of the findings from the paper,
 
 ![inverse](https://github.com/ntunlp/ChatGPT_Eval/blob/main/figures/2.PNG)
 
-- We also identify an interesting capability. There is a SHARP trend of this features at different scale !!!! ChatGPT can attend to multiple questions in a query and respond accordingly. However, adding many questions may reduce the model's performance.
+- We also identify an interesting capability. There is a SHARP trend of this features at different scale !!!! ChatGPT can attend to multiple questions in a query and respond accordingly. However, adding many questions may reduce the model's performance. We name if as **PolyQuery Synthesis**.
 
 ![polyquery](https://github.com/ntunlp/ChatGPT_Eval/blob/main/figures/4.PNG)
 ![polyquery_res](https://github.com/ntunlp/ChatGPT_Eval/blob/main/figures/5.PNG)
