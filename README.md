@@ -29,7 +29,7 @@ Please consider citing if you use the data or results from this paper.
 ```
 
 
-Here is a short summary of the findings of the paper, 
+Here is a short summary of the findings from the paper, 
 
 - As a general purpose instruction following multitask model, ChatGPT performs worse than the SOTA single task fine-tuned models. For targeted tasks, the fine-tuned model may still be preferable.
 
