@@ -15,7 +15,7 @@ We cover the largest ChatGPT evaluation so far (255K responses) on 140 tasks.
 ![datasets](https://github.com/ntunlp/ChatGPT_Eval/blob/main/figures/17.PNG)
 
 
-Please consider citing ff you use the data or results from this paper.
+Please consider citing if you use the data or results from this paper.
 
 ```
 @misc{laskar2023systematic,
