@@ -76,7 +76,7 @@ Here is a short summary of the findings from the paper,
 ![truthfulqa](https://github.com/ntunlp/ChatGPT_Eval/blob/main/figures/11.PNG)
 ![ethics](https://github.com/ntunlp/ChatGPT_Eval/blob/main/figures/13.PNG)
 
-- ChatGPT sometimes considers *utilitarian morality* and can respond to ethical dilemma-related queries (Section \ref{par:ethical_dilemma}).
+- ChatGPT sometimes considers *utilitarian morality* and can respond to ethical dilemma-related queries.
 
 ![utilitarian](https://github.com/ntunlp/ChatGPT_Eval/blob/main/figures/15.PNG)
 
