@@ -81,6 +81,10 @@ Here is a short summary of the findings from the paper,
 ![utilitarian](https://github.com/ntunlp/ChatGPT_Eval/blob/main/figures/15.PNG)
 
 
+## Data Generation Process
+
+We used [promptsource](https://github.com/bigscience-workshop/promptsource) to generate our evaluation data.
+The data shared in this repo are already in prompted format. If you are comparing these numbers in your work, for a fair comparison, please use the same data.  
 
 
 
