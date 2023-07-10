@@ -4,8 +4,6 @@ This is the repository of Our ACL'23 findings paper, [A Systematic Study and Com
 
 ![eval_benchmarks](https://github.com/ntunlp/ChatGPT_Eval/blob/main/eval.jpg)
 
-All the data can be downloaded from [here](https://drive.google.com/drive/folders/1eC2zEpq_7zxG4l3BSdt8THzzIu_mGnBa?usp=sharing).
-
 
 Yet another ChatGPT evaluation !!!! What's new ? This time not automatic, human in a loop. 
 Our ACL'23 paper covers FULL eval on benchmarks that actually MATTERS !!!
@@ -28,6 +26,12 @@ Please consider citing if you use the data or results from this paper.
 }
 ```
 
+## Data
+
+All the data can be downloaded from [here](https://drive.google.com/drive/folders/1eC2zEpq_7zxG4l3BSdt8THzzIu_mGnBa?usp=sharing).
+
+
+## Findings
 
 Here is a short summary of the findings from the paper, 
 
